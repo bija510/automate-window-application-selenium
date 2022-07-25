@@ -1,0 +1,7 @@
+/target/
+*.png
+/target/
+/test-output/*
+debug.log*
+allure-results
+/Cookies.data
